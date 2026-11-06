@@ -2,7 +2,7 @@
 
 My daily Data Structures & Algorithms practice in Java: **115 problems, 3 per day, 39 days**.
 
-Each problem is a separate file under `src/<topic>/`. A problem's file is added to this repo when I solve it.
+Problems are grouped by day: `src/day01/` holds Day 1's three problems, and so on up to `src/day39/`. A problem's file is added to this repo when I solve it.
 
 | Topic | Problems |
 |-------|----------|
