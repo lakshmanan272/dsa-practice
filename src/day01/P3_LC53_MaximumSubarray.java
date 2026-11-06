@@ -11,7 +11,7 @@ public class P3_LC53_MaximumSubarray {
       class Solution  {
           public int maxSubArray(int[]nums){
               int maxsofar = nums[0];
-              int currentsum= nums[0];
+              int currentsum= 0;
               for (int i=0;i<nums.length;i++){
                   if(currentsum<0){
                       currentsum=0;
