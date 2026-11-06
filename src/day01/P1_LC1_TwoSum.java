@@ -8,7 +8,11 @@ package day01;
 public class P1_LC1_TwoSum {
 
     // Write your solution here
-           
+           public static int sum(){
+
+
+           }
+
 
     public static void main(String[] args) {
         // Test your solution here
