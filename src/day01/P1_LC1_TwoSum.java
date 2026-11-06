@@ -8,10 +8,11 @@ package day01;
 public class P1_LC1_TwoSum {
 
     // Write your solution here
-           public static int sum(){
-
-
-           }
+    // (your empty sum() is commented out below so the project builds and Run works again;
+    //  write the real twoSum method here when you solve it)
+    //       public static int sum(){
+    //
+    //       }
 
 
     public static void main(String[] args) {
