@@ -8,7 +8,7 @@ import java.util.*;
 
 public class P1_LC1_TwoSum {
 
-    // Synced from the LeetCode plugin (leetcode/editor/en/LC1_TwoSum.java).
+    // Synced from the LeetCode plugin (src/LC1_TwoSum.java).
     // Edit that file and save: this copy updates itself.
 
     class Solution {
